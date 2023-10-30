@@ -2,13 +2,24 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.8.
 
+## Description
+
+`JusFolio` is a landing page/portfolio designed for attorneys seeking to professionally showcase their services and experiences. It is built with Angular and styled with Tailwind CSS.
+
+## Technologies Used
+
+- Angular 16.2.8
+- Tailwind CSS
+- (Any other significant tool or library you might have used)
+
+## Author
+
+- Name: [Diego González Prado](https://www.linkedin.com/in/diego-gonz%C3%A1lez-prado-56b160294/)
+- Email: diego.gon.prado@gmail.com
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
